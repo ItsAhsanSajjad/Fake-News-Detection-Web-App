@@ -50,22 +50,11 @@ The machine learning model used for fake news detection in this project is the *
 The Passive Aggressive Classifier (PAC) is a type of online learning algorithm for binary classification tasks. It is well-suited for applications like fake news detection. The PAC algorithm updates its model continuously as new data arrives, making it efficient for real-time classification.
 
 ### Model Accuracy
-The Passive Aggressive Classifier achieved an impressive accuracy of **96%** during evaluation. This high accuracy indicates its effectiveness in classifying news articles as reliable or unreliable.
+The Passive Aggressive Classifier achieved an impressive accuracy of **95%** during evaluation. This high accuracy indicates its effectiveness in classifying news articles as reliable or unreliable.
 
 The model is pre-trained and available as `model.pkl` in this repository, allowing you to use it for making predictions.
 
 Feel free to explore the Jupyter Notebook (`Fake_News_Detector-PA.ipynb`) for more details about the model's training and performance.
-
-## Images
-This section provides visuals and diagrams used in the project:
-- Block Diagram
-![Block Diagram](Images/BlockDiagram.jpg)
-
-- Process Flow Diagram
-![Process Flow Diagram](Images/Processflow.jpg)
-
-- Confusion Matrix
-![Confusion Matrix](Images/ConfusionMatrix.jpg)
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
