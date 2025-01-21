@@ -69,7 +69,7 @@ This section provides visuals and diagrams used in the project:
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
-- Python 3.7 or higher
+- Python 3.11 or higher
 - Install all dependencies from the requirements.txt file.
 
 ## Getting Started
